@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 4d9ce35203572504e8986e97963c05ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1125755623659933751
+    second: Personajes_secundarios_Sprite_sheet_0
+  - first:
+      213: 5599902884302962172
+    second: Personajes_secundarios_Sprite_sheet_1
+  - first:
+      213: -8793853369255083949
+    second: Personajes_secundarios_Sprite_sheet_2
+  - first:
+      213: 6818681108077865197
+    second: Personajes_secundarios_Sprite_sheet_3
+  - first:
+      213: 3545124500121113409
+    second: Personajes_secundarios_Sprite_sheet_4
+  - first:
+      213: 5628377396055446917
+    second: Personajes_secundarios_Sprite_sheet_5
+  - first:
+      213: -4354997574775001249
+    second: Personajes_secundarios_Sprite_sheet_6
+  - first:
+      213: -6033258833741193476
+    second: Personajes_secundarios_Sprite_sheet_7
+  - first:
+      213: 5128146428839294089
+    second: Personajes_secundarios_Sprite_sheet_8
+  - first:
+      213: 359976216280516882
+    second: Personajes_secundarios_Sprite_sheet_9
+  - first:
+      213: 7492998724963289484
+    second: Personajes_secundarios_Sprite_sheet_10
+  - first:
+      213: 2292873851888791293
+    second: Personajes_secundarios_Sprite_sheet_11
+  - first:
+      213: 3138028958510574453
+    second: Personajes_secundarios_Sprite_sheet_12
+  - first:
+      213: 3193062258707477452
+    second: Personajes_secundarios_Sprite_sheet_13
+  - first:
+      213: -7506424831400949940
+    second: Personajes_secundarios_Sprite_sheet_14
+  - first:
+      213: 5287965260783119927
+    second: Personajes_secundarios_Sprite_sheet_15
+  - first:
+      213: -5074076807379621862
+    second: Personajes_secundarios_Sprite_sheet_16
+  - first:
+      213: -5745747509756202778
+    second: Personajes_secundarios_Sprite_sheet_17
+  - first:
+      213: -7182756963426385149
+    second: Personajes_secundarios_Sprite_sheet_18
+  - first:
+      213: 5560094108028789549
+    second: Personajes_secundarios_Sprite_sheet_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Personajes_secundarios_Sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 146
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730162476cc7f9f00800000000000000
+      internalID: 1125755623659933751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_secundarios_Sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 146
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd3093f00ad6bd40800000000000000
+      internalID: 5599902884302962172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_secundarios_Sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 146
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350cda6d3f4f5f580800000000000000
+      internalID: -8793853369255083949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_secundarios_Sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 146
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8e5a34752d0ae50800000000000000
+      internalID: 6818681108077865197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_secundarios_Sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 146
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143d04233ffc23130800000000000000
+      internalID: 3545124500121113409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_secundarios_Sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 145
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58519b9db630c1e40800000000000000
+      internalID: 5628377396055446917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_secundarios_Sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 78
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f29dd87c0ff83c0800000000000000
+      internalID: -4354997574775001249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_secundarios_Sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 78
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe5ed86e0f854ca0800000000000000
+      internalID: -6033258833741193476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_secundarios_Sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 78
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9847727c106da2740800000000000000
+      internalID: 5128146428839294089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_secundarios_Sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 78
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2194df22674eef400800000000000000
+      internalID: 359976216280516882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_secundarios_Sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 82
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8944e704aa7cf760800000000000000
+      internalID: 7492998724963289484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_secundarios_Sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeec90ce9ce1df10800000000000000
+      internalID: 2292873851888791293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_secundarios_Sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 9
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b69e636b48c8b20800000000000000
+      internalID: 3138028958510574453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_secundarios_Sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 9
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc337fbe439005c20800000000000000
+      internalID: 3193062258707477452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_secundarios_Sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 10
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47cc27f262d3d790800000000000000
+      internalID: -7506424831400949940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_secundarios_Sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 11
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e65994360a26940800000000000000
+      internalID: 5287965260783119927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_secundarios_Sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 10
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18e61df6024599b0800000000000000
+      internalID: -5074076807379621862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_secundarios_Sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 10
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e075e705110340b0800000000000000
+      internalID: -5745747509756202778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_secundarios_Sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 9
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303c10ff898b15c90800000000000000
+      internalID: -7182756963426385149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes_secundarios_Sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 7
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d236cc2f12c692d40800000000000000
+      internalID: 5560094108028789549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,634 @@
+fileFormatVersion: 2
+guid: 54c4825aabb416e42816aa2a7e7c536f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7074607232284419394
+    second: SpriteSheet_CicloAndar_AS_0
+  - first:
+      213: -4056829898904592997
+    second: SpriteSheet_CicloAndar_AS_1
+  - first:
+      213: -255576519165126304
+    second: SpriteSheet_CicloAndar_AS_2
+  - first:
+      213: -1823585468702401145
+    second: SpriteSheet_CicloAndar_AS_3
+  - first:
+      213: -3706364534703749107
+    second: SpriteSheet_CicloAndar_AS_4
+  - first:
+      213: -3301978631350885361
+    second: SpriteSheet_CicloAndar_AS_5
+  - first:
+      213: 1907049739120938620
+    second: SpriteSheet_CicloAndar_AS_6
+  - first:
+      213: -1069276756347183368
+    second: SpriteSheet_CicloAndar_AS_7
+  - first:
+      213: 4877002999371688240
+    second: SpriteSheet_CicloAndar_AS_8
+  - first:
+      213: -4725688061756929437
+    second: SpriteSheet_CicloAndar_AS_9
+  - first:
+      213: -2359859824474367075
+    second: SpriteSheet_CicloAndar_AS_10
+  - first:
+      213: -1488534753789908638
+    second: SpriteSheet_CicloAndar_AS_11
+  - first:
+      213: -4868323331551477456
+    second: SpriteSheet_CicloAndar_AS_12
+  - first:
+      213: -8780670372834175095
+    second: SpriteSheet_CicloAndar_AS_13
+  - first:
+      213: -2013291392501738386
+    second: SpriteSheet_CicloAndar_AS_14
+  - first:
+      213: 8896011777958292388
+    second: SpriteSheet_CicloAndar_AS_15
+  - first:
+      213: 6495555073864830630
+    second: SpriteSheet_CicloAndar_AS_16
+  - first:
+      213: -641387857533920689
+    second: SpriteSheet_CicloAndar_AS_17
+  - first:
+      213: -4463794462671849437
+    second: SpriteSheet_CicloAndar_AS_18
+  - first:
+      213: 1825568396057032614
+    second: SpriteSheet_CicloAndar_AS_19
+  - first:
+      213: 1442697800552658777
+    second: SpriteSheet_CicloAndar_AS_20
+  - first:
+      213: -3507924106341835663
+    second: SpriteSheet_CicloAndar_AS_21
+  - first:
+      213: 6614269743102453336
+    second: SpriteSheet_CicloAndar_AS_22
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 121
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba17428432f1dd90800000000000000
+      internalID: -7074607232284419394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 121
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d9b9173be33b7c0800000000000000
+      internalID: -4056829898904592997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 121
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0695b3a8282047cf0800000000000000
+      internalID: -255576519165126304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 121
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ddd609da251b6e0800000000000000
+      internalID: -1823585468702401145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 122
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0880e4c719509cc0800000000000000
+      internalID: -3706364534703749107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 122
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04666eede30d22d0800000000000000
+      internalID: -3301978631350885361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 122
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e0e4d32a3377a10800000000000000
+      internalID: 1907049739120938620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 68
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe1853947a2921f0800000000000000
+      internalID: -1069276756347183368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 68
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039601273689ea340800000000000000
+      internalID: 4877002999371688240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 68
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a8cafdebbfa6eb0800000000000000
+      internalID: -4725688061756929437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 68
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b5d722ef7104fd0800000000000000
+      internalID: -2359859824474367075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 67
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269678c2789a75be0800000000000000
+      internalID: -1488534753789908638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 68
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031c02339bd307cb0800000000000000
+      internalID: -4868323331551477456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 68
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9871c6161dac42680800000000000000
+      internalID: -8780670372834175095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 68
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e641598352a5f04e0800000000000000
+      internalID: -2013291392501738386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab25e6349bf47b70800000000000000
+      internalID: 8896011777958292388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 11
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae03bcbce8d42a50800000000000000
+      internalID: 6495555073864830630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 10
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a117c44255917f0800000000000000
+      internalID: -641387857533920689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 10
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328b61e169a6d02c0800000000000000
+      internalID: -4463794462671849437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 10
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7b820b8c8b55910800000000000000
+      internalID: 1825568396057032614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 11
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957bd20810e750410800000000000000
+      internalID: 1442697800552658777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_CicloAndar_AS_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 10
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c177e6c99515fc0800000000000000
+      internalID: -3507924106341835663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

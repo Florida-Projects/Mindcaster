@@ -1,0 +1,1279 @@
+fileFormatVersion: 2
+guid: 05b2bd74c8f632949bc82c8e14ec9202
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3066761021062767258
+    second: FatigaSpriteSheet_0
+  - first:
+      213: 4387050924082952683
+    second: FatigaSpriteSheet_1
+  - first:
+      213: -25343277670134350
+    second: FatigaSpriteSheet_2
+  - first:
+      213: 731886906704546105
+    second: FatigaSpriteSheet_3
+  - first:
+      213: 243644857646635549
+    second: FatigaSpriteSheet_4
+  - first:
+      213: 4790513329560986105
+    second: FatigaSpriteSheet_5
+  - first:
+      213: -4111272995160187321
+    second: FatigaSpriteSheet_6
+  - first:
+      213: 7796650966057044606
+    second: FatigaSpriteSheet_7
+  - first:
+      213: -2865330520678070399
+    second: FatigaSpriteSheet_8
+  - first:
+      213: 8941493689194119477
+    second: FatigaSpriteSheet_9
+  - first:
+      213: 1260791550662603225
+    second: FatigaSpriteSheet_10
+  - first:
+      213: 5641114701959350057
+    second: FatigaSpriteSheet_11
+  - first:
+      213: -818176183629156369
+    second: FatigaSpriteSheet_12
+  - first:
+      213: -6729273649467403334
+    second: FatigaSpriteSheet_13
+  - first:
+      213: -3795359678668973813
+    second: FatigaSpriteSheet_14
+  - first:
+      213: 7975738845635655650
+    second: FatigaSpriteSheet_15
+  - first:
+      213: 5044761592749601114
+    second: FatigaSpriteSheet_16
+  - first:
+      213: 8769157065594445395
+    second: FatigaSpriteSheet_17
+  - first:
+      213: -1159287988202984878
+    second: FatigaSpriteSheet_18
+  - first:
+      213: 8440766143874744290
+    second: FatigaSpriteSheet_19
+  - first:
+      213: -7234961980958830857
+    second: FatigaSpriteSheet_20
+  - first:
+      213: -5943149168271062472
+    second: FatigaSpriteSheet_21
+  - first:
+      213: -7646469230495192949
+    second: FatigaSpriteSheet_22
+  - first:
+      213: -5536176848141585494
+    second: FatigaSpriteSheet_23
+  - first:
+      213: -6566932461511610816
+    second: FatigaSpriteSheet_24
+  - first:
+      213: 3720474073417617582
+    second: FatigaSpriteSheet_25
+  - first:
+      213: -534690608691518107
+    second: FatigaSpriteSheet_26
+  - first:
+      213: 7953023588870695891
+    second: FatigaSpriteSheet_27
+  - first:
+      213: -7000441619433346455
+    second: FatigaSpriteSheet_28
+  - first:
+      213: 1435472689681779198
+    second: FatigaSpriteSheet_29
+  - first:
+      213: 7889001385468599744
+    second: FatigaSpriteSheet_30
+  - first:
+      213: -6382154890316031808
+    second: FatigaSpriteSheet_31
+  - first:
+      213: 4151088215234066560
+    second: FatigaSpriteSheet_32
+  - first:
+      213: -6770112880310529318
+    second: FatigaSpriteSheet_33
+  - first:
+      213: 3778896303204833485
+    second: FatigaSpriteSheet_34
+  - first:
+      213: -6250155561397401122
+    second: FatigaSpriteSheet_35
+  - first:
+      213: -1893560475241716387
+    second: FatigaSpriteSheet_36
+  - first:
+      213: 2134174333169918967
+    second: FatigaSpriteSheet_37
+  - first:
+      213: -2805542230676165033
+    second: FatigaSpriteSheet_38
+  - first:
+      213: -7941665218692930094
+    second: FatigaSpriteSheet_39
+  - first:
+      213: 278358300853393826
+    second: FatigaSpriteSheet_40
+  - first:
+      213: -4383693545264553446
+    second: FatigaSpriteSheet_41
+  - first:
+      213: 802182451577729491
+    second: FatigaSpriteSheet_42
+  - first:
+      213: 5438259113912711123
+    second: FatigaSpriteSheet_43
+  - first:
+      213: 5823876864399542656
+    second: FatigaSpriteSheet_44
+  - first:
+      213: 7651488375596060142
+    second: FatigaSpriteSheet_45
+  - first:
+      213: -9017954929091670276
+    second: FatigaSpriteSheet_46
+  - first:
+      213: 6916950012804652712
+    second: FatigaSpriteSheet_47
+  - first:
+      213: -6574871706660914460
+    second: FatigaSpriteSheet_48
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d1a88891da075d0800000000000000
+      internalID: -3066761021062767258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 423
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be97385629fe1ec30800000000000000
+      internalID: 4387050924082952683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 423
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd07095c66f5aff0800000000000000
+      internalID: -25343277670134350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 423
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93942e1934f282a00800000000000000
+      internalID: 731886906704546105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 423
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ad06705b9916300800000000000000
+      internalID: 243644857646635549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 423
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1a144fd725b7240800000000000000
+      internalID: 4790513329560986105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 423
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e12dc4ef2d1f6c0800000000000000
+      internalID: -4111272995160187321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 423
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a4985ceb4433c60800000000000000
+      internalID: 7796650966057044606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18706e6921d4c38d0800000000000000
+      internalID: -2865330520678070399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 363
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53100d1e221961c70800000000000000
+      internalID: 8941493689194119477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 363
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1fe014c3b3f7110800000000000000
+      internalID: 1260791550662603225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 363
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927458bfee3494e40800000000000000
+      internalID: 5641114701959350057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 363
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef691b881145a4f0800000000000000
+      internalID: -818176183629156369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 363
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3591fd441dc92a0800000000000000
+      internalID: -6729273649467403334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 363
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09581e1b7c245bc0800000000000000
+      internalID: -3795359678668973813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 363
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7b56b09348fae60800000000000000
+      internalID: 7975738845635655650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51bf58b0f7920640800000000000000
+      internalID: 5044761592749601114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 303
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e1d52e3ed42b970800000000000000
+      internalID: 8769157065594445395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 303
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aa8c687b169efe0800000000000000
+      internalID: -1159287988202984878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 303
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef3cc53610a32570800000000000000
+      internalID: 8440766143874744290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 303
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe0e792960489b90800000000000000
+      internalID: -7234961980958830857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 303
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a8b02d151b58da0800000000000000
+      internalID: -5943149168271062472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 303
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8821626fb842e590800000000000000
+      internalID: -7646469230495192949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 303
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa377c01d7c8b23b0800000000000000
+      internalID: -5536176848141585494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e6e9728b19dd4a0800000000000000
+      internalID: -6566932461511610816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 243
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea09b163577c1a330800000000000000
+      internalID: 3720474073417617582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 243
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565643c69b56498f0800000000000000
+      internalID: -534690608691518107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 243
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dba0f031d0de5e60800000000000000
+      internalID: 7953023588870695891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 243
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aa0d2ef6f69de90800000000000000
+      internalID: -7000441619433346455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 243
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9c1494ec2dbe310800000000000000
+      internalID: 1435472689681779198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 243
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd9b6d56fc5b7d60800000000000000
+      internalID: 7889001385468599744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 243
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8d03df0f70e67a0800000000000000
+      internalID: -6382154890316031808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08836540db0ab9930800000000000000
+      internalID: 4151088215234066560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 183
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad25bc7743abb02a0800000000000000
+      internalID: -6770112880310529318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 183
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc89f839a26517430800000000000000
+      internalID: 3778896303204833485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 183
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9c9f3b1acf249a0800000000000000
+      internalID: -6250155561397401122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 183
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d556f70c7c8b8b5e0800000000000000
+      internalID: -1893560475241716387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 183
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f36959af3c1e9d10800000000000000
+      internalID: 2134174333169918967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 183
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ea032a436b019d0800000000000000
+      internalID: -2805542230676165033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 183
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5abb27f8989c190800000000000000
+      internalID: -7941665218692930094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9d5aa566decd300800000000000000
+      internalID: 278358300853393826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 123
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12655642fdf923c0800000000000000
+      internalID: -4383693545264553446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 123
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1b75780bce12b00800000000000000
+      internalID: 802182451577729491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 123
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d73c49d9d3987b40800000000000000
+      internalID: 5438259113912711123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 123
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0898626e62192d050800000000000000
+      internalID: 5823876864399542656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 123
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed0f66632c8f2a60800000000000000
+      internalID: 7651488375596060142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 123
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe020b65c9c9d280800000000000000
+      internalID: -9017954929091670276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 123
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeda5a9361fdff50800000000000000
+      internalID: 6916950012804652712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatigaSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eab5b8940d51c4a0800000000000000
+      internalID: -6574871706660914460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: 34984cef61b7c0848928c192825576ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6409390775952662869
+    second: EgocentrismoSpriteSheet_0
+  - first:
+      213: -1532670547208746408
+    second: EgocentrismoSpriteSheet_1
+  - first:
+      213: 778952807737646003
+    second: EgocentrismoSpriteSheet_2
+  - first:
+      213: -8527254290221488543
+    second: EgocentrismoSpriteSheet_3
+  - first:
+      213: 8397079194134903426
+    second: EgocentrismoSpriteSheet_4
+  - first:
+      213: 1541220666353175620
+    second: EgocentrismoSpriteSheet_5
+  - first:
+      213: -6757718702790297537
+    second: EgocentrismoSpriteSheet_6
+  - first:
+      213: 7248541055831162502
+    second: EgocentrismoSpriteSheet_7
+  - first:
+      213: -5036922808192534301
+    second: EgocentrismoSpriteSheet_8
+  - first:
+      213: -6434281580972484533
+    second: EgocentrismoSpriteSheet_9
+  - first:
+      213: 4869177928264134425
+    second: EgocentrismoSpriteSheet_10
+  - first:
+      213: 4946190064495675400
+    second: EgocentrismoSpriteSheet_11
+  - first:
+      213: -6196597592100971324
+    second: EgocentrismoSpriteSheet_12
+  - first:
+      213: -5729402548045040898
+    second: EgocentrismoSpriteSheet_13
+  - first:
+      213: 4954528233161674487
+    second: EgocentrismoSpriteSheet_14
+  - first:
+      213: 6623993373857332418
+    second: EgocentrismoSpriteSheet_15
+  - first:
+      213: 3531001268620667156
+    second: EgocentrismoSpriteSheet_16
+  - first:
+      213: 8026582988432901198
+    second: EgocentrismoSpriteSheet_17
+  - first:
+      213: 4495030485413542895
+    second: EgocentrismoSpriteSheet_18
+  - first:
+      213: 6281603958215679958
+    second: EgocentrismoSpriteSheet_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EgocentrismoSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae1da43c054d07a0800000000000000
+      internalID: -6409390775952662869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgocentrismoSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 121
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a4bebf14cdabae0800000000000000
+      internalID: -1532670547208746408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgocentrismoSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 121
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbdef993756fca00800000000000000
+      internalID: 778952807737646003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgocentrismoSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 121
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1662ce1076b19a980800000000000000
+      internalID: -8527254290221488543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgocentrismoSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 121
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28afb35990b688470800000000000000
+      internalID: 8397079194134903426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgocentrismoSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 121
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cc872c704836510800000000000000
+      internalID: 1541220666353175620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgocentrismoSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 121
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38bb2cc4a2c732a0800000000000000
+      internalID: -6757718702790297537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgocentrismoSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 121
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68eb6a49fadf79460800000000000000
+      internalID: 7248541055831162502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgocentrismoSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8fe988461491ab0800000000000000
+      internalID: -5036922808192534301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgocentrismoSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48db4d0ef6d4b6a0800000000000000
+      internalID: -6434281580972484533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgocentrismoSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f2b5a178bc29340800000000000000
+      internalID: 4869177928264134425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgocentrismoSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808c4d958a564a440800000000000000
+      internalID: 4946190064495675400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgocentrismoSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccd7ca2253410aa0800000000000000
+      internalID: -6196597592100971324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgocentrismoSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2be8cfcb21d70b0800000000000000
+      internalID: -5729402548045040898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgocentrismoSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fece378d2502c440800000000000000
+      internalID: 4954528233161674487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgocentrismoSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 61
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccbe4bc0e62deb50800000000000000
+      internalID: 6623993373857332418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgocentrismoSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419a69d12f2a00130800000000000000
+      internalID: 3531001268620667156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgocentrismoSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e448cb983b6246f60800000000000000
+      internalID: 8026582988432901198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgocentrismoSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb30a9296e816e30800000000000000
+      internalID: 4495030485413542895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EgocentrismoSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df1225c48dbc2750800000000000000
+      internalID: 6281603958215679958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

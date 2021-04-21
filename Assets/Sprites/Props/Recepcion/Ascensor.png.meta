@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 2a1b4d19e5f20b34293421370ddc5c48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1089771161297824386
+    second: Ascensor_0
+  - first:
+      213: 3264990391432230924
+    second: Ascensor_1
+  - first:
+      213: -4094400454953871936
+    second: Ascensor_2
+  - first:
+      213: 6487126704665919789
+    second: Ascensor_3
+  - first:
+      213: -6284195623798325529
+    second: Ascensor_4
+  - first:
+      213: 55314254581718609
+    second: Ascensor_5
+  - first:
+      213: 8536939139132648133
+    second: Ascensor_6
+  - first:
+      213: -1501694668061645712
+    second: Ascensor_7
+  - first:
+      213: 7341156335228954286
+    second: Ascensor_8
+  - first:
+      213: 8645197070583798601
+    second: Ascensor_9
+  - first:
+      213: 211485158221517022
+    second: Ascensor_10
+  - first:
+      213: 9093059413772421422
+    second: Ascensor_11
+  - first:
+      213: 5032890504070951768
+    second: Ascensor_12
+  - first:
+      213: 7292255180173655313
+    second: Ascensor_13
+  - first:
+      213: -2948774445711475040
+    second: Ascensor_14
+  - first:
+      213: -7098149447174799393
+    second: Ascensor_15
+  - first:
+      213: -8618650393103332192
+    second: Ascensor_16
+  - first:
+      213: 9000724917477209891
+    second: Ascensor_17
+  - first:
+      213: 5549168508081152390
+    second: Ascensor_18
+  - first:
+      213: 7694356849173402798
+    second: Ascensor_19
+  - first:
+      213: 8620594717596979930
+    second: Ascensor_20
+  - first:
+      213: -3730661763100803246
+    second: Ascensor_21
+  - first:
+      213: -1523276149334427512
+    second: Ascensor_22
+  - first:
+      213: 6361004924523494669
+    second: Ascensor_23
+  - first:
+      213: -7510749531011722431
+    second: Ascensor_24
+  - first:
+      213: 6215953172447160300
+    second: Ascensor_25
+  - first:
+      213: 6731066887732332465
+    second: Ascensor_26
+  - first:
+      213: 498266835399598755
+    second: Ascensor_27
+  - first:
+      213: -1302276401381273750
+    second: Ascensor_28
+  - first:
+      213: 3341985465959044771
+    second: Ascensor_29
+  - first:
+      213: 5943674407382550200
+    second: Ascensor_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ascensor_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 164
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75d06417ea50e0f0800000000000000
+      internalID: -1089771161297824386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascensor_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 164
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5d642ba74cd27c0800000000000000
+      internalID: -4094400454953871936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascensor_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 164
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eebf60106d0ac8a0800000000000000
+      internalID: -6284195623798325529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascensor_6
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 164
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca61299aec497670800000000000000
+      internalID: 8536939139132648133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascensor_8
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 164
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea62ee1bac601e560800000000000000
+      internalID: 7341156335228954286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascensor_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 87
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed09f0381a85fe200800000000000000
+      internalID: 211485158221517022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascensor_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 87
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853f5908f3b68d540800000000000000
+      internalID: 5032890504070951768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascensor_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 87
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae3e90d349d317d0800000000000000
+      internalID: -2948774445711475040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascensor_16
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 87
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac8bcb8127646880800000000000000
+      internalID: -8618650393103332192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascensor_18
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 87
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68126fa7b5b920d40800000000000000
+      internalID: 5549168508081152390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascensor_20
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 87
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad21af6c83182a770800000000000000
+      internalID: 8620594717596979930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascensor_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 9
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888b810b96c3cdae0800000000000000
+      internalID: -1523276149334427512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascensor_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1435d1f581574c790800000000000000
+      internalID: -7510749531011722431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascensor_26
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 9
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b70ea2fbad896d50800000000000000
+      internalID: 6731066887732332465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ascensor_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 9
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f8b4043826dede0800000000000000
+      internalID: -1302276401381273750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

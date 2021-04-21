@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 81e24bf05023aed48b7a8ee2f90d10b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7635182660868087716
+    second: BarridoSpriteSheet_0
+  - first:
+      213: 7711766408796937118
+    second: BarridoSpriteSheet_1
+  - first:
+      213: -640071384985563089
+    second: BarridoSpriteSheet_2
+  - first:
+      213: -4395469144613815949
+    second: BarridoSpriteSheet_3
+  - first:
+      213: -6040556510363174986
+    second: BarridoSpriteSheet_4
+  - first:
+      213: -7267357715208405924
+    second: BarridoSpriteSheet_5
+  - first:
+      213: 4577522083309667462
+    second: BarridoSpriteSheet_6
+  - first:
+      213: -7487129140853041932
+    second: BarridoSpriteSheet_7
+  - first:
+      213: -702653849142150150
+    second: BarridoSpriteSheet_8
+  - first:
+      213: -1963395233388522305
+    second: BarridoSpriteSheet_9
+  - first:
+      213: 2692481508282407625
+    second: BarridoSpriteSheet_10
+  - first:
+      213: -8080592888061169394
+    second: BarridoSpriteSheet_11
+  - first:
+      213: -403474534843181047
+    second: BarridoSpriteSheet_12
+  - first:
+      213: 3271690769377046212
+    second: BarridoSpriteSheet_13
+  - first:
+      213: -6273852863459262435
+    second: BarridoSpriteSheet_14
+  - first:
+      213: -6766980809555996855
+    second: BarridoSpriteSheet_15
+  - first:
+      213: 2749039953508870296
+    second: BarridoSpriteSheet_16
+  - first:
+      213: 3266750912183282931
+    second: BarridoSpriteSheet_17
+  - first:
+      213: -7763556623502193045
+    second: BarridoSpriteSheet_18
+  - first:
+      213: 6982690853473146436
+    second: BarridoSpriteSheet_19
+  - first:
+      213: 1060971708054959879
+    second: BarridoSpriteSheet_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BarridoSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af93485d2e95f960800000000000000
+      internalID: 7635182660868087716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarridoSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 122
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b912ba0b2b50b60800000000000000
+      internalID: 7711766408796937118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarridoSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 122
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f201b0377720e17f0800000000000000
+      internalID: -640071384985563089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarridoSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 122
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3797a16e9182003c0800000000000000
+      internalID: -4395469144613815949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarridoSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 122
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7312aabd1ab2ca0800000000000000
+      internalID: -6040556510363174986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarridoSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 122
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cfe4189a8252b90800000000000000
+      internalID: -7267357715208405924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarridoSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 122
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684cd2ff410a68f30800000000000000
+      internalID: 4577522083309667462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarridoSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 122
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f49af307bf581890800000000000000
+      internalID: -7487129140853041932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarridoSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb32d90c0caf36f0800000000000000
+      internalID: -702653849142150150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarridoSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 62
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb49e20107e90c4e0800000000000000
+      internalID: -1963395233388522305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarridoSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 62
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca1b799aad9d5520800000000000000
+      internalID: 2692481508282407625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarridoSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 62
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01f094c497fbdf80800000000000000
+      internalID: -8080592888061169394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarridoSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 62
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90891ca5c02966af0800000000000000
+      internalID: -403474534843181047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarridoSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 62
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cea4abab61676d20800000000000000
+      internalID: 3271690769377046212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarridoSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 62
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10817c9f0ccee8a0800000000000000
+      internalID: -6273852863459262435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarridoSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 62
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f87848ecad612a0800000000000000
+      internalID: -6766980809555996855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarridoSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898a04ec54d862620800000000000000
+      internalID: 2749039953508870296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarridoSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc2e5a85a4d55d20800000000000000
+      internalID: 3266750912183282931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarridoSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e458e426e424490800000000000000
+      internalID: -7763556623502193045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarridoSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446d2a9d55087e060800000000000000
+      internalID: 6982690853473146436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarridoSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707fa5fa52459be00800000000000000
+      internalID: 1060971708054959879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
